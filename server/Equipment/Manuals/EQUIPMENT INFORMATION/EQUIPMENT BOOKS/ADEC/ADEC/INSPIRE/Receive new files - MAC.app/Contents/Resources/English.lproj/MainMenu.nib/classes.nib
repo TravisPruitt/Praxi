@@ -1,0 +1,53 @@
+{
+    IBClasses =     (
+                {
+            CLASS = Controller;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                aboutItem = NSMenuItem;
+                debugWindow = NSWindow;
+                form1 = baseView;
+                hideItem = NSMenuItem;
+                mainMenu = NSMenu;
+                quitItem = NSMenuItem;
+            };
+            SUPERCLASS = NSObject;
+        },
+                {
+            CLASS = FirstResponder;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSObject;
+        },
+                {
+            CLASS = MyApplication;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSApplication;
+        },
+                {
+            CLASS = MyWindow;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSWindow;
+        },
+                {
+            CLASS = baseView;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSView;
+        },
+                {
+            CLASS = fullscreenWindow;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSWindow;
+        },
+                {
+            CLASS = "mdm_view";
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSView;
+        },
+                {
+            CLASS = splashView;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSView;
+        }
+    );
+    IBVersion = 1;
+}

@@ -1,0 +1,8 @@
+{
+  "google.GoogleSearchToolSpec": {
+    "engine": "5421229bef5ba44f9",
+    "key": "AIzaSyAMKJ5kShXFFKI0ihKtzbrehOHaO-5EF9M",
+    "num": 5
+  },
+  "wikipedia.WikipediaToolSpec": {}
+}

@@ -1,0 +1,142 @@
+Dental Hub Application Requirements Document (Updated)
+
+1. Universal Hub of Equipment Management
+
+Objective:
+
+Develop a centralized platform for comprehensive equipment management within the dental office.
+The application will be developed in flutter and will be available on mobile devices and the web.
+
+Requirements:
+
+Measure Module:
+Ability to analyze current equipment usage and performance.
+Forecasting tool for future equipment needs based on historical data.
+
+Forecast Module:
+Data analytics tool to analyze historical equipment data.
+Reporting tool to provide actionable insights for procurement and maintenance.
+
+2. Device Management
+
+Objective:
+Develop a system for oversight and management of all office dental devices.
+
+Requirements:
+Centralized Hub:
+Dashboard to display device performance metrics.
+Real-time monitoring system for device health and status.
+
+Reporting Tool:
+Automated report generation for device performance.
+Alert system integration for device malfunctions or issues.
+
+
+5. Analytics Dashboard on Home Page
+
+Objective:
+Develop a centralized dashboard for analytics and insights on the home page.
+
+Requirements:
+
+Equipment Management:
+
+System to track equipment health and status.
+Alert system for equipment issues or malfunctions surfaced via notification cards.
+
+Compliance Monitoring:
+System to monitor equipment for regulatory compliance.
+Automated compliance report generation.
+
+6. Onboarding
+
+Objective:
+Develop a comprehensive onboarding system for new users.
+
+Requirements:
+Facility Onboarding:
+System to identify and list facilities.
+Transition management system for new facilities.
+
+Onsite Equipment Evaluation:
+System for technicians to evaluate equipment onsite and log findings.
+Recommendation system based on evaluations.
+
+Platform Demonstration:
+Interactive tutorial for platform features.
+Highlight reel for platform benefits and advantages.
+
+User Training:
+Comprehensive training sessions for users.
+Support system for user queries and issues.
+
+Dental Hub Mobile App Page Structure
+Splash Screen
+Logo and app name.
+Brief animation or transition (optional).
+
+Login/Signup Page
+Fields for email and password.
+Options for signup and password recovery.
+Links to terms of service and privacy policy.
+
+Home Page (Dashboard)
+Profile Section: Display user profile information.
+
+Notifications Section: List of notification cards (from the Analytics Dashboard).
+
+Quick Access Buttons: Shortcuts to frequently used modules like Device Management, Equipment Management, etc.
+
+Search Bar: For quick searches across the app.
+Universal Hub of Equipment Management
+
+Measure Module Page:
+Graphs/charts for equipment usage and performance.
+Forecasting tool interface.
+
+Forecast Module Page:
+Data analytics visualization.
+Reports and insights section.
+Device Management Page
+
+Centralized Hub Section:
+Device performance metrics.
+Real-time device health indicators.
+
+Reporting Tool Section:
+List of generated reports.
+Alert history and current alerts.
+Analytics Dashboard
+
+Equipment Management Section:
+Equipment health and status overview.
+List of equipment with issues or malfunctions.
+Compliance Monitoring Section:
+Compliance status of equipment.
+Compliance reports download and view options.
+
+Onboarding Page
+Facility Onboarding Section:
+Facility identification and listing interface.
+Transition management tools.
+
+Onsite Equipment Evaluation Section:
+Technician evaluation tools and logs.
+Recommendations based on evaluations.
+
+Platform Demonstration Section:
+Interactive tutorial.
+Benefits and advantages highlight reel.
+
+User Training Section:
+Training materials and videos.
+Support chat or contact options.
+
+Settings & Profile Page
+User profile details and edit options.
+App settings (notifications, theme, etc.).
+Logout option.
+
+Help & Support Page
+FAQ section.
+Contact support options (chat, email, phone).
